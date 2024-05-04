@@ -1,5 +1,5 @@
 ## Command Execution
-```
+```php
 exec           - Returns last line of commands output
 passthru       - Passes commands output directly to the browser
 system         - Passes commands output directly to the browser and returns last line
