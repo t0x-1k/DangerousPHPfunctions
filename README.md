@@ -1,3 +1,3 @@
 # DangerousPHPfunctions  
 
-##Taken from https://gist.github.com/mccabe615
+## Taken from https://gist.github.com/mccabe615
